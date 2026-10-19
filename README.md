@@ -31,5 +31,3 @@ The README inside each directory documents the objective, dependencies, configur
 Each implementation focuses on a specific concept. Examples will be added incrementally as new features, approaches, and patterns are explored.
 
 The emphasis is on understanding how things work, implementing them hands-on, and documenting the reasoning behind technical decisions.
-- [Spring Guides](https://spring.io/guides)
-
